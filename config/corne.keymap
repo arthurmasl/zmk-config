@@ -9,9 +9,6 @@
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/outputs.h>
 
-&out OUT_USB
-
-
 / {
         keymap {
                 compatible = "zmk,keymap";
